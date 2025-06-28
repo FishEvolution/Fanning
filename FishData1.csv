@@ -1,0 +1,245 @@
+Name,Group,PC1,PC2,PC1S,PC2S,Fanning,PectoralSwimming,All
+Elops_affinis,No Care,-0.31247238,0.040669915,,,0,-,All
+Ophichthus_rufus,No Care,0.194999346,-0.006625,0.041509992,0.03132609,0,0,All
+Ophichthus_zophochir,No Care,0.021519104,0.022083639,-0.042430039,0.05530236,0,0,All
+Chitala_ornata,Fanning,-0.063634503,0.056344768,-0.201910519,0.050354539,1,0,All
+Engraulis_encrasicolus,No Care,-0.223902451,0.047233797,-0.195708932,0.078141666,0,0,All
+Brevoortia_patronus,No Care,-0.217164012,0.064512511,-0.352425806,-0.020450944,0,0,All
+Harengula_thrissina,No Care,-0.222700872,0.043809556,,,0,-,All
+Sardinella_aurita,No Care,-0.371907467,-0.03409346,-0.140018761,0.04562545,0,0,All
+Gonorynchus_greyi,No Care,-0.222034363,0.034410663,,,0,-,All
+Pimephales_promelas,Fanning,-0.015346109,0.015374589,,,1,-,All
+Ancistrus_dolichopterus,Fanning,-0.085896516,-0.117899678,,,1,-,All
+Ameiurus_nebulosus,Fanning,-0.160698528,0.030094849,-0.058056665,0.058828264,1,0,All
+Pylodictis_olivaris,Fanning,0.320316156,-0.113627399,,,1,-,All
+Glossanodon_semifasciatus,No Care,0.011341685,0.08338295,,,0,-,All
+Oncorhynchus_kisutch,Fanning,-0.079779871,0.059052924,-0.2529022,0.011410285,1,0,All
+Cyclothone_microdon,No Care,-0.22555965,0.013430149,,,0,-,All
+Synodus_foetens,No Care,-0.27350919,0.002911386,-0.384512274,-0.055497099,0,0,All
+Parasudis_truculenta,No Care,-0.214147086,0.033242329,,,0,-,All
+Lestidiops_affinis,No Care,0.166760473,0.078709105,,,0,-,All
+Uncisudis_advena,No Care,-0.154930914,0.056683652,,,0,-,All
+Hygophum_proximum,No Care,-0.402833026,-0.071773841,0.159285598,0.168450488,0,0,All
+Symbolophorus_evermanni,No Care,0.137385369,0.174443354,0.320758367,-0.058882296,0,0,All
+Notolychnus_valdiviae,No Care,-0.254717913,-0.035131607,,,0,-,All
+Zenopsis_nebulosa,No Care,-0.153261515,-0.048460419,,,0,-,All
+Raniceps_raninus,No Care,0.300498201,-0.052679163,0.096614621,0.013395324,0,0,All
+Urophycis_chuss,No Care,0.075517573,0.018047466,0.190949514,0.005845833,0,0,All
+Ciliata_mustela,No Care,0.169656465,0.015665789,0.241084006,0.041686775,0,0,All
+Brosme_brosme,No Care,0.219445777,0.054754702,0.141311184,0.009125283,0,0,All
+Eleginus_nawaga,No Care,0.118519606,0.022389819,-0.08707464,0.08698387,0,0,All
+Eleginus_gracilis,No Care,-0.109306851,0.084482025,-0.089568537,0.088118705,0,0,All
+Pollachius_virens,No Care,-0.112620517,0.093343823,-0.151711908,-0.025989231,0,0,All
+Pollachius_pollachius,No Care,-0.171121097,-0.027238364,-0.165406098,0.018707692,0,0,All
+Merlangius_merlangus,No Care,-0.187201947,0.023664326,-0.162573318,0.005113236,0,0,All
+Arctogadus_glacialis,No Care,-0.183598284,0.003509169,-0.043593595,0.015281169,0,0,All
+Trachyrincus_scabrus,No Care,-0.065710906,0.025611704,-0.130033843,0.020188952,0,0,All
+Laemonema_longipes,No Care,-0.152082407,0.023319311,-0.188026647,0.030370177,0,0,All
+Mora_moro,No Care,-0.209447735,0.030339929,-0.026955682,0.052221146,0,0,All
+Macruronus_novaezelandiae,No Care,-0.051596045,0.054014867,-0.09672587,0.02104744,0,0,All
+Bregmaceros_atlanticus,No Care,-0.117549642,0.023663206,-0.174913026,0.059701489,0,0,All
+Bregmaceros_mcclellandi,No Care,-0.196297199,0.044230135,-0.170599091,0.025896593,0,0,All
+Hymenocephalus_italicus,No Care,-0.191953451,0.025272508,-0.038225027,0.019725233,0,0,All
+Nezumia_sclerorhynchus,No Care,-0.059652147,0.020229805,-0.182030144,0.031408371,0,0,All
+Nezumia_aequalis,No Care,-0.204395467,0.03636381,-0.099293238,-0.00910828,0,0,All
+Albatrossia_pectoralis,No Care,-0.119658076,-0.011398342,-0.165577647,-0.039854338,0,0,All
+Zu_cristatus,No Care,-0.102918675,0.02779281,,,0,-,All
+Carapus_dubius,No Care,0.129123473,-0.021336381,,,0,-,All
+Cherublemma_emmelas,No Care,-0.18571304,-0.040324221,0.046387979,-0.016501925,0,0,All
+Genypterus_capensis,No Care,0.02633918,-0.013018353,0.145105419,-0.073667915,0,0,All
+Genypterus_tigerinus,No Care,0.108988766,-0.019146975,,,0,-,All
+Genypterus_blacodes,No Care,0.124713928,-0.067967646,0.169121904,-0.06229099,0,0,All
+Parophidion_vassali,No Care,0.148758754,-0.055965408,0.268124984,0.083289232,0,0,All
+Opsanus_tau,Fanning,0.271502582,0.085572443,,,1,-,All
+Porichthys_notatus,Fanning,0.225035612,-0.112996666,,,1,-,All
+Calotomus_japonicus,No Care,0.218580288,0.125576185,,,0,-,All
+Tautoga_onitis,No Care,0.247540526,0.091045938,-0.103830158,-0.004115102,0,1,All
+Ctenolabrus_rupestris,No Care,0.072440093,0.065766742,,,0,-,All
+Symphodus_melops,Fanning,0.231303286,0.026889377,,,1,-,All
+Linophryne_arborifera,No Care,0.261908065,-0.135959558,,,0,-,All
+Lactoria_diaphana,No Care,-0.125514717,0.001559879,0.320905743,-0.065470855,0,0,All
+Balistes_capriscus,Fanning,0.301395366,-0.054689819,0.115031521,-0.082592867,1,0,All
+Chilomycterus_schoepfii,No Care,0.095615758,-0.06908639,0.301045386,0.120271546,0,1,All
+Diodon_holocanthus,No Care,0.280766625,0.117195405,0.244757102,0.116369122,0,1,All
+Diodon_hystrix,No Care,0.223787496,0.120497399,-0.005419486,0.046694545,0,1,All
+Tetraodon_cutcutia,Fanning,0.172314943,-0.074453084,,,1,-,All
+Tetraodon_palembangensis,Fanning,0.006189098,-0.121366111,,,1,-,All
+Monotrete_cochinchinensis,Fanning,0.256261493,-0.01894074,,,1,-,All
+Tetraodon_turgidus,Fanning,0.253523753,-0.084601696,,,1,-,All
+Acanthurus_nigroris,No Care,-0.204294132,0.026408212,,,0,-,All
+Leiostomus_xanthurus,No Care,-0.027565555,0.053306345,-0.023433401,0.020256141,0,1,All
+Argyrosomus_regius,No Care,-0.045929707,0.030595693,0.233052324,-0.037448045,0,1,All
+Miichthys_miiuy,No Care,0.017087128,0.053148898,,,0,-,All
+Caulolatilus_microps,No Care,-0.249519824,-0.087387226,,,0,-,All
+Lagodon_rhomboides,No Care,-0.19381889,0.005557175,,,0,-,All
+Acanthopagrus_australis,No Care,-0.306568975,-0.016899005,,,0,-,All
+Prognathodes_aculeatus,No Care,0.211618977,-0.018363468,0.100559793,-0.013641563,0,0,All
+Ocyurus_chrysurus,No Care,-0.184148102,-0.025591461,,,0,-,All
+Lutjanus_peru,No Care,-0.157830033,0.0271102,,,0,-,All
+Lutjanus_russellii,No Care,-0.297912782,-0.041422981,,,0,-,All
+Uranoscopus_japonicus,No Care,0.323620454,0.10180014,,,0,-,All
+Ammodytes_tobianus,No Care,-0.045688135,0.082324761,,,0,-,All
+Ammodytes_hexapterus,No Care,-0.170571792,0.039255628,,,0,-,All
+Ammodytoides_gilli,No Care,-0.131237328,-0.003878783,,,0,-,All
+Acropoma_japonicum,No Care,-0.065892378,0.051334887,,,0,-,All
+Girella_nigricans,No Care,-0.010518011,0.041216623,,,0,-,All
+Lepomis_cyanellus,Fanning,0.155820598,-0.009969891,,,1,-,All
+Lepomis_macrochirus,Fanning,0.080090385,-0.003440221,0.10682248,-0.03269666,1,0,All
+Lepomis_megalotis,Fanning,0.091178909,-0.012206807,,,1,-,All
+Lepomis_gibbosus,Fanning,0.158718991,0.015124173,,,1,-,All
+Micropterus_dolomieu,Fanning,0.17597752,0.004488061,,,1,-,All
+Micropterus_salmoides,Fanning,0.084528954,-0.022024412,0.011971506,-0.07311915,1,1,All
+Echiichthys_vipera,No Care,-0.009598078,-0.059511316,0.436647184,-0.035924553,0,0,All
+Etheostoma_nigrum,Fanning,-0.029098217,0.021014341,,,1,-,All
+Etheostoma_radiosum,Fanning,0.086911507,-0.081789093,,,1,-,All
+Etheostoma_crossopterum,Fanning,0.282087222,0.00315921,,,1,-,All
+Etheostoma_flabellare,Fanning,0.030292125,0.041971767,,,1,-,All
+Notothenia_coriiceps,No Care,0.418835779,-0.038626467,0.206678019,-0.032016156,0,1,All
+Harpagifer_bispinis,Fanning,0.46516786,-0.046866584,,,1,-,All
+Paralabrax_clathratus,No Care,0.149136894,0.058711819,,,0,-,All
+Platycephalus_indicus,No Care,0.048201588,-0.050136331,,,0,-,All
+Scorpaena_scrofa,No Care,0.157617299,0.051170081,,,0,-,All
+Chelidonichthys_lucerna,No Care,-0.225628818,-0.032719561,,,0,-,All
+Trigloporus_lastoviza,No Care,-0.205389198,0.00366813,,,0,-,All
+Lepidotrigla_microptera,No Care,-0.228597827,0.004483722,,,0,-,All
+Lepidotrigla_papilio,No Care,-0.081093602,-0.018538939,,,0,-,All
+Gasterosteus_wheatlandi,Fanning,0.277660113,0.029428123,,,1,-,All
+Gasterosteus_aculeatus,Fanning,0.189044876,-0.041950769,0.294409836,0.057349642,1,1,All
+Spinachia_spinachia,Fanning,0.274165789,0.065076187,-0.050329976,-0.037026232,1,1,All
+Pungitius_pungitius,Fanning,-0.028230022,0.020603955,,,1,-,All
+Xiphister_atropurpureus,Fanning,-0.018798486,-0.006589275,,,1,-,All
+Xiphister_mucosus,Fanning,-0.03628387,-0.059130215,,,1,-,All
+Ulvaria_subbifurcata,Fanning,0.063686397,-0.064772606,,,1,-,All
+Cottus_hangiongensis,Fanning,0.223313695,-0.071358145,,,1,-,All
+Cottus_gobio,Fanning,0.211547453,-0.029667971,,,1,-,All
+Cottus_bairdii,Fanning,0.163547739,-0.116534707,,,1,-,All
+Enophrys_bison,Fanning,0.102506756,-0.068615554,,,1,-,All
+Myoxocephalus_quadricornis,Fanning,0.181596112,0.007649913,,,1,-,All
+Myoxocephalus_scorpius,Fanning,-0.035442605,-0.008027113,,,1,-,All
+Oligocottus_snyderi,No Care,0.148562949,-0.137202598,,,0,-,All
+Diplospinus_multistriatus,No Care,0.032915312,-0.035334572,,,0,-,All
+Gempylus_serpens,No Care,-0.287991074,-0.014451148,,,0,-,All
+Aphanopus_carbo,No Care,-0.068751889,-0.047051088,-0.003263594,0.056948862,0,0,All
+Sarda_sarda,No Care,-0.024839746,0.064514576,-0.261953481,-0.000327729,0,0,All
+Thunnus_albacares,No Care,-0.281682978,-0.011018867,-0.158050857,0.089162178,0,0,All
+Euthynnus_affinis,No Care,-0.178892705,0.076112015,-0.205251828,0.091221197,0,0,All
+Katsuwonus_pelamis,No Care,-0.226873073,0.081841912,-0.036717435,0.006719204,0,0,All
+Scomber_scombrus,No Care,-0.05742121,0.018251842,-0.081557401,0.102302896,0,0,All
+Scomber_australasicus,No Care,-0.103950094,0.107980201,-0.068469038,0.043585205,0,0,All
+Scomber_japonicus,No Care,-0.089422879,0.051806359,0.172883301,-0.121274831,0,0,All
+Nomeus_gronovii,No Care,0.037534422,0.047953371,,,0,-,All
+Fistularia_commersonii,No Care,0.153764481,-0.112769641,0.438743992,0.016449877,0,0,All
+Synchiropus_altivelis,No Care,0.146360393,0.034871252,,,0,-,All
+Callionymus_sagitta,No Care,0.136772749,-0.015419173,,,0,-,All
+Aulostomus_chinensis,No Care,0.416917151,0.023417095,-0.24211728,-0.008554724,0,0,All
+Macroramphosus_gracilis,No Care,-0.263477071,-0.007130214,0.220781393,-0.067116253,0,0,All
+Odontobutis_obscura,Fanning,0.061423841,-0.042208936,,,1,-,All
+Amblygobius_bynoensis,Fanning,0.162880516,-0.032758152,,,1,-,All
+Rhinogobius_brunneus,Fanning,0.20224553,-0.05851144,,,1,-,All
+Clevelandia_ios,No Care,0.201098348,-0.064004173,0.139400265,-0.129697111,0,1,All
+Glossogobius_callidus,Fanning,0.119070778,-0.126390454,0.061057595,0.006325637,1,1,All
+Eviota_prasina,Fanning,0.04392079,-0.01372821,0.136504948,-0.056737614,1,1,All
+Gobiusculus_flavescens,Fanning,0.115466983,-0.054504408,0.285635223,-0.042417667,1,1,All
+Pomatoschistus_minutus,Fanning,0.266021545,-0.03265333,0.41302541,-0.044871977,1,1,All
+Pomatoschistus_microps,Fanning,0.39560825,-0.037375437,0.40614332,-0.071398218,1,1,All
+Knipowitschia_punctatissima,Fanning,0.386679545,-0.071219137,0.300398976,-0.094114943,1,1,All
+Amblygobius_phalaena,Fanning,0.282025407,-0.087221598,0.085157915,-0.061431581,1,1,All
+Valenciennea_muralis,Fanning,0.063819283,-0.050988949,0.055027311,-0.060694347,1,1,All
+Valenciennea_longipinnis,Fanning,0.033475039,-0.051714055,0.172275636,0.007390995,1,1,All
+Neogobius_melanostomus,Fanning,0.154787925,-0.001506443,0.264352753,-0.106436174,1,1,All
+Padogobius_bonelli,Fanning,0.244092814,-0.095534749,0.403084134,-0.023397281,1,1,All
+Zosterisessor_ophiocephalus,Fanning,0.380103039,-0.013768513,0.196338798,-0.070719986,1,1,All
+Neogobius_fluviatilis,Fanning,0.176193001,-0.065566395,-0.157703392,-0.062093007,1,1,All
+Badis_badis,Fanning,0.09605955,0.170579047,,,1,-,All
+Istiophorus_platypterus,No Care,-0.323296051,-0.02809813,,,0,-,All
+Coryphaena_hippurus,No Care,-0.176765103,-0.053842435,-0.036731788,0.00113253,0,0,All
+Oligoplites_saurus,No Care,-0.057576499,0.014129855,-0.166324506,0.080066359,0,0,All
+Elagatis_bipinnulata,No Care,-0.187990449,0.077732364,-0.192238685,-0.025449685,0,0,All
+Naucrates_ductor,No Care,-0.21117648,-0.019737445,-0.104216581,-0.061190779,0,0,All
+Seriola_zonata,No Care,-0.125258734,-0.046657744,-0.30446484,-0.074079412,0,0,All
+Pseudocaranx_dentex,No Care,-0.322202672,-0.077300109,-0.172814877,0.005188451,0,0,All
+Decapterus_punctatus,No Care,-0.194474232,0.006825192,-0.316531354,-0.062260206,0,0,All
+Trachurus_novaezelandiae,No Care,-0.335487499,-0.065233779,-0.27470379,-0.03817234,0,0,All
+Trachurus_declivis,No Care,-0.294324605,-0.039737853,-0.209960211,-0.035422686,0,0,All
+Trachurus_lathami,No Care,-0.228507204,-0.026023519,-0.302460428,-0.005062559,0,0,All
+Trachurus_picturatus,No Care,-0.323634536,-0.003264822,-0.307333515,-0.07554455,0,0,All
+Alectis_ciliaris,No Care,-0.324775564,-0.080418948,-0.297677001,-0.093874919,0,0,All
+Selene_peruviana,No Care,-0.315356069,-0.100111659,-0.294287932,-0.053640256,0,0,All
+Hemicaranx_amblyrhynchus,No Care,-0.312040056,-0.057121095,-0.345593247,-0.092987813,0,0,All
+Chloroscombrus_orqueta,No Care,-0.362791596,-0.102028602,-0.229633434,-0.120448728,0,0,All
+Carangoides_bartholomaei,No Care,-0.246737888,-0.116758986,-0.358582345,-0.079923709,0,0,All
+Caranx_caballus,No Care,-0.376152441,-0.087334096,-0.081850318,-0.011246769,0,0,All
+Sphyraena_barracuda,No Care,-0.105022918,0.00917634,0.05471227,0.060867108,0,0,All
+Psettodes_erumei,No Care,0.033137119,0.067186749,0.133097104,-0.047579921,0,0,All
+Citharus_linguatula,No Care,0.111683989,-0.031543334,0.099960926,0.039748792,0,0,All
+Scophthalmus_rhombus,No Care,0.077558605,0.043379438,0.105527886,0.045452733,0,0,All
+Zeugopterus_regius,No Care,0.085661568,0.048155375,-0.200857932,0.012469473,0,0,All
+Xystreurys_liolepis,No Care,-0.221231542,0.007772501,-0.160651621,0.054579554,0,0,All
+Citharichthys_fragilis,No Care,-0.183033657,0.057517339,-0.046083695,0.009830118,0,0,All
+Paralichthys_dentatus,No Care,-0.066100112,0.005127172,0.196935757,0.040816218,0,0,All
+Paralichthys_olivaceus,No Care,0.173880472,0.048799731,-0.272708768,0.001459103,0,0,All
+Citharichthys_arctifrons,No Care,-0.293631216,-0.003286103,-0.129176831,0.054035628,0,0,All
+Etropus_microstomus,No Care,-0.150888092,0.047367048,-0.317594354,0.013879856,0,0,All
+Acanthopsetta_nadeshnyi,No Care,-0.338816707,0.006440989,0.214730371,-0.017265325,0,0,All
+Pleuronichthys_coenosus,No Care,-0.205794908,0.008438517,-0.184961039,0.014985226,0,0,All
+Lyopsetta_exilis,No Care,-0.270178906,-0.047241919,-0.25028247,-0.047708871,0,0,All
+Eopsetta_grigorjewi,No Care,-0.113243572,0.017659976,-0.092285837,0.022968607,0,0,All
+Hippoglossus_hippoglossus,No Care,0.026391211,0.016011205,0.048047675,-0.003556992,0,0,All
+Glyptocephalus_zachirus,No Care,-0.39151751,-0.084099957,-0.374885413,-0.076773017,0,0,All
+Glyptocephalus_cynoglossus,No Care,-0.121276546,0.01646547,-0.100123066,0.017984075,0,0,All
+Microstomus_kitt,No Care,-0.166822512,-0.089880316,-0.149008659,-0.085706024,0,0,All
+Hippoglossoides_platessoides,No Care,0.268546743,-0.019903139,0.288238178,-0.028775543,0,0,All
+Hippoglossoides_elassodon,No Care,-0.182209167,-0.025496558,-0.162273285,-0.023877367,0,0,All
+Pseudopleuronectes_americanus,No Care,0.183881756,0.078077829,0.203313822,0.090386831,0,0,All
+Parophrys_vetulus,No Care,-0.11004215,0.013539153,-0.089397782,0.021108822,0,0,All
+Lepidopsetta_mochigarei,No Care,-0.011124288,0.128428461,0.012126966,0.123405065,0,0,All
+Limanda_proboscidea,No Care,0.277911633,-0.021512347,0.299007402,-0.031386403,0,0,All
+Platichthys_flesus,No Care,0.075679814,0.066297782,0.09866921,0.06790836,0,0,All
+Pleuronectes_platessa,No Care,0.118588417,0.029730425,0.140487713,0.022527062,0,0,All
+Achirus_mazatlanus,No Care,0.049326078,-0.130963461,0.069240271,-0.140057899,0,0,All
+Zebrias_zebra,No Care,-0.23251637,-0.102265194,-0.212960967,-0.104987831,0,0,All
+Austroglossus_microlepis,No Care,-0.312629433,-0.042885871,-0.294847321,-0.03429862,0,0,All
+Dicologlossa_cuneata,No Care,-0.171058422,0.032762389,-0.149652876,0.040923016,0,0,All
+Pegusa_nasuta,No Care,-0.187005472,0.016430756,-0.166302494,0.026992986,0,0,All
+Pegusa_lascaris,No Care,0.01493271,0.025815585,0.035411537,0.028426225,0,0,All
+Pegusa_impar,No Care,0.001377488,0.023157686,0.02227313,0.024854079,0,0,All
+Rhombosolea_plebeia,No Care,0.068848353,0.050646005,0.089524869,0.051995429,0,0,All
+Syacium_papillosum,No Care,0.138850894,0.062848139,0.159918628,0.054624669,0,0,All
+Syacium_ovale,No Care,-0.081030184,0.080926172,-0.058554059,0.080267836,0,0,All
+Syacium_micrurum,No Care,-0.191583388,0.016322324,-0.169720809,0.009862646,0,0,All
+Cyclopsetta_panamensis,No Care,-0.094369324,0.011804374,-0.073507684,0.013253202,0,0,All
+Engyophrys_sanctilaurentii,No Care,-0.100404747,0.057159145,-0.077870917,0.047220167,0,0,All
+Arnoglossus_capensis,No Care,-0.12516228,0.056641276,-0.102956201,0.057342849,0,0,All
+Monolene_asaedae,No Care,-0.171498166,0.053973319,-0.149473199,0.061160212,0,0,All
+Hypsypops_rubicundus,Fanning,0.186098909,0.026368023,0.207090044,0.020659202,1,1,All
+Dascyllus_aruanus,Fanning,0.016494905,-0.046201933,0.037271649,-0.010975157,1,1,All
+Dascyllus_marginatus,Fanning,0.225308117,0.020014733,0.246444276,0.014223344,1,1,All
+Chromis_dispilus,Fanning,0.059022821,0.00661521,,,1,-,All
+Chromis_chromis,Fanning,0.152958303,0.055909064,0.175455851,0.051043441,1,1,All
+Premnas_biaculeatus,Fanning,0.362845852,-0.020280483,0.38403403,-0.021351725,1,1,All
+Amphiprion_ocellaris,Fanning,0.412716229,0.030073876,0.433544871,0.013587252,1,1,All
+Amphiprion_percula,Fanning,0.426981072,-0.028631544,0.447340233,-0.037915075,1,1,All
+Amphiprion_melanopus,Fanning,0.242443147,0.011697784,0.263245039,0.001424538,1,1,All
+Amphiprion_clarkii,Fanning,0.274706124,0.014783838,0.29783145,0.022952083,1,1,All
+Amphiprion_sebae,Fanning,0.27990775,-0.041266928,0.299937289,-0.053176079,1,1,All
+Gobiesox_strumosus,Fanning,0.212788517,-0.007537396,,,1,-,All
+Forsterygion_capito,Fanning,0.133834546,-0.157808258,,,1,-,All
+Ruanoho_decemdigitatus,Fanning,0.367481405,-0.059960728,,,1,-,All
+Parablennius_sanguinolentus,Fanning,0.195911532,-0.007479977,,,1,-,All
+Polycentrus_schomburgkii,Fanning,0.174522488,0.084834255,,,1,-,All
+Etroplus_maculatus,Fanning,-0.101640231,0.043820075,,,1,-,All
+Bujurquina_vittata,Fanning,0.116099481,-0.000381381,,,1,-,All
+Symphysodon_aequifasciatus,Fanning,0.055262566,0.015928146,0.077154147,0.014023697,1,0,All
+Rocio_octofasciata,Fanning,0.25664984,0.022753693,,,1,-,All
+Archocentrus_multispinosus,Fanning,0.108181856,0.064584547,,,1,-,All
+Paraneetroplus_maculicauda,Fanning,0.047883926,0.012869375,,,1,-,All
+Hemichromis_bimaculatus,Fanning,0.193949755,0.067725774,,,1,-,All
+Tilapia_zillii,Fanning,-0.125391507,0.055205717,-0.103605062,0.04804435,1,0,All
+Pelmatolapia_mariae,Fanning,-0.203975382,-0.002050096,,,1,-,All
+Tylosurus_acus_acus,No Care,-0.029611,0.104137603,,,0,-,All
+Strongylura_notata_notata,No Care,-0.030408543,0.083473855,,,0,-,All
+Hemiramphus_balao,No Care,-0.018874569,0.055381854,,,0,-,All
+Hemiramphus_brasiliensis,No Care,-0.173367356,-0.076119733,,,0,-,All
+Cypselurus_comatus,No Care,-0.261524466,0.015800516,,,0,-,All
+Adinia_xenica,No Care,0.135701695,-0.052195552,,,0,-,All
+Jordanella_floridae,Fanning,0.217508686,-0.000356109,,,1,-,All
