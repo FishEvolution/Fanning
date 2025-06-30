@@ -1,5 +1,7 @@
 READ ME - Fanning
 
+Data Overview - Contains all the original data for Fanning and Swimming Method, Image Sources and Environmental Data used.
+
 Below is a description of how each part of the methods were carried out include file names used in each analysis.
 
 For all project the end of the file represents which part of the project it is used in:
