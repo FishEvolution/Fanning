@@ -7,8 +7,11 @@ Below is a description of how each part of the methods were carried out include 
 For all project the end of the file represents which part of the project it is used in:
 
 None of the below - Fanning Method on Original Sample Size of 162
+
 1 - Fanning Method on Increase Sample Size of 244
+
 S - Swimming Method on Original Sample Size of 162
+
 1S - Swimming Method on Increase Sample Size of 244
 
 A) Images
