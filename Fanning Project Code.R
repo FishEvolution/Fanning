@@ -11,8 +11,9 @@ library(ape)
 library(phangorn)
 library(OUwie, lib="C:/Users/tmunr/OneDrive/Aberdeen/Projects/Fanning Fin Project/R")
 library(picante)
-library(ggtree) #Only if Non-Circular Used
-library(ggplot2) #Only if Non-Circular Used
+library(ggtree)
+library(ggplot2)
+library(regclass)
 
 #### Swimming Method Data Collection ####
 
@@ -1819,6 +1820,45 @@ ggTree <- gheatmap(ggTree, data.frame(factor(AncestralStatesSwimming)), width=0.
 ggTree
 
 ggsave("C:/Users/tmunr/OneDrive/Aberdeen/Projects/Fanning Fin Project/R/Tree.pdf", width = 50, height = 80, units = "cm", limitsize = FALSE)
+
+#### BayesTraits ####
+
+BayesTraits <- read.csv("BayesTraits.csv", header=FALSE)
+Tree <- read.tree("Actinopterygii.trees")
+
+drop.tip.multiPhylo <- function(Tree, tip, ...){
+  if(!inherits(Tree, "multiPhylo"))
+    stop("phy is not an object of class \"multiPhylo\".")
+  else {
+    trees <- lapply(Tree, drop.tip, tip = tip,...)
+    class(Tree) <- "multiPhylo"
+  }
+  Tree
+}
+
+Tree <- replicate(100, pbtree(n=82, tip.label = BayesTraits$V1), simplify = FALSE)
+class(Tree) <- "multiPhylo"
+Tree <- .compressTipLabel(Tree)
+
+write.nexus(Tree, file = "TreeS1.trees")
+
+#### Environment VIF ####
+
+Environment <- read.csv("Environment.csv")
+
+Model1 <- lm(Fanning ~ Depth + Oxygen + Temperature, data = Environment)
+Model2 <- lm(Swimming ~ Depth + Oxygen + Temperature, data = Environment)
+
+VIF1 <- VIF(Model1)
+VIF1
+
+VIF2 <- VIF(Model2)
+VIF2
+
+plot(Model1, which = 1, main = "Model Fit")
+
+cor_matrix <- cor(Environment[c("Depth", "Oxygen", "Temperature")])
+image(cor_matrix, main = "Correlation Matrix", col = colorRampPalette(c("blue", "white", "red"))(20))
 
 #### Environment Depth Modelling Fanning ####
 
