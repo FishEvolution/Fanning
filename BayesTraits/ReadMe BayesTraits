@@ -1,0 +1,22 @@
+READ ME - BayesTraits
+
+BayesTraits.R is the code file used for the analyses in R.
+
+Actinopterygii.trees - 100 trees from Rabosky et al.
+
+GroupNames.csv states all species names in the analysis. The end of the file represents which part of the project it is used in:
+
+None of the below - Fanning Method on Original Sample Size of 162
+1 - Fanning Method on Increase Sample Size of 244
+S - Swimming Method on Original Sample Size of 162
+1S - Swimming Method on Increase Sample Size of 244
+
+These endings also apply to the Tree.trees files that are made which correspond to different BayesTraits analyses (Tree for BayesTraits.csv and BayesTraitsFPC.csv, Tree1 for BayesTraits1.csv and BayesTraitsFPC1.csv, TreeS for BayesTraitsSPC.csv and TreeS1 for BayesTraitsSPC1.csv).
+
+For all BayesTraits.csv files if there is no number it is on the original sample size of 162. If there is a 1 it is on the larger sample size of 244.
+
+BayesTraits.csv - Column 1 = Species Name. Column 2 = Fanning behaviour (0 = Non-Fanning, 1 = Fanning). Column 3 = Swimming behaviour (0 = Non-Pectoral Swimming, 1 = Pectoral Swimming). 
+BayesTraitsFPC.csv - Column 1 = Species Name. Column 2 = Fanning behaviour (0 = Non-Fanning, 1 = Fanning). Column 3 = PC1 values (0 = Low, 1 = High).
+BayesTraitsSPC.csv - Column 1 = Species Name. Column 2 = Swimming behaviour (0 = Non-Pectoral Swimming, 1 = Pectoral Swimming). Column 3 = PC1 values (0 = Low, 1 = High).
+
+For all BayesTraits analyses there are a series of files for the results (.Log, .Schedule and .Stones). If the result file has a D it is testing a dependent model of evolution, if it has an I it is testing the independent model. FanningSwimming refers to BayesTraits.csv, FanningPC refers to BayesTraitsFPC.csv and SwimmingPC refers to BayesTraitsSPC.csv
