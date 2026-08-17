@@ -1,1 +1,20 @@
+READ ME
 
+Ancestral State Reconstruction.R is the code file used for the analyses in R.
+
+GroupNames.csv states all species names in the analysis. The end of the file represents which part of the project it is used in:
+
+None of the below - Fanning Method on Original Sample Size of 162
+1 - Fanning Method on Increase Sample Size of 244
+S - Swimming Method on Original Sample Size of 162
+1S - Swimming Method on Increase Sample Size of 244
+
+For the rest of the files if there is not a 1 it is for Fanning and Swimming on the original sample size of 162. If there is a 1 it is on the larger sample size of 244.
+
+ConsensusTree.nex - The consensus tree.
+
+AncestralStatesContinuous.csv - Column 1: Species Names. Column 2: PC1 Values. Column 3: PC2 Values.
+
+AncestralStatesDiscrete.csv - Column 1: Species Names. Column 2: Fanning State (1 = Non-Fanning, 2 = Fanning). Column 3: Swimming State (1 = Non-Pectoral Swimming, 2 = Pectoral Swimming, 3 = No data).
+
+HarmonicArray.csv and HarmonicArray1 were used for the Kmult statistics and were generated from the morphospace in MATLAB.
