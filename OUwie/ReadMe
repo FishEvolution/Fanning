@@ -1,0 +1,30 @@
+READ ME - OUwie
+
+OUwie.R is the code file used for the morphospace analyses in R.
+
+Morpho.R is a script needed within OUwie.R.
+
+For all parts of the project the end of the file represents which part of the project it is used in:
+
+None of the below - Fanning Method on Original Sample Size of 162
+1 - Fanning Method on Increase Sample Size of 244
+S - Swimming Method on Original Sample Size of 162
+1S - Swimming Method on Increase Sample Size of 244
+
+The OUwie.csv files have the species name in column 1, the trait (either fanning or swimming) in column 2 and the PC1 and PC2 values in column 3 & 4 respectively.
+
+The OUwieOutput.csv files have the tree number in column 1 and then the results for the PC1 models in columns 2-7 and for the PC2 models in columns 8-13.
+
+The column headings refer to:
+
+BM1	Brownian motion with a single rate parameter for each state.
+BMS	Brownian motion with a different rate parameters for each state.
+OU1	Ornstein-Uhlenbeck with one adaptive peak.
+OUM	Ornstein-Uhlenbeck with two adaptive peaks.
+OUMV	Ornstein-Uhlenbeck with two adaptive peaks and two different standard deviations.
+OUMA	Ornstein-Uhlenbeck with two adaptive peaks and two different alphas.
+
+If a PC is added at the end of the file, it is for determine the specific PC1 and PC2 peak values. Column 1 is the tree number. The other columns will name the model (OUM, OUMV or OUMA representing Ornstein-Uhlenbeck with two adaptive peaks and either different standard deviations [V] or two different alphas [A]), whether is a PC1 or PC2 peak and which state it belongs to (either Fanning/Non Fanning or Swimming/NonSwimming). If there is only one state mentioned (e.g. just Swimming and no NonSwimming that means there is a single peak).
+
+HarmonicArray.csv is produced in MATLAB and required in R.
+
