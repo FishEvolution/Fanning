@@ -15,7 +15,7 @@ None of the below - Fanning Method on Original Sample Size of 162
 S - Swimming Method on Original Sample Size of 162
 1S - Swimming Method on Increase Sample Size of 244
 
-Image Files - Genus_Species.tif
+Image Files - Located within Images.zip. All files are named Genus_Species.tif.
 
 Fish.csv - Column 1: List of species for which images are available. Column 2 & 3: First and Last appearance dates. As we are not using extinct species these columns are put to 0 as default. Column 4: Which group they belong to. By default 1 is non-fanning and 2 is fanning.
 
