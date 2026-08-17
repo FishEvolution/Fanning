@@ -1,0 +1,28 @@
+READ ME - Morphospace
+
+Morphospace.R is the code file used for the morphospace analyses in R.
+
+Morpho.R is a script needed within Morphospace.R.
+
+All .m files are package and script files needed for the analyses.
+
+Code.m is the code file used to produce the morphospaces in MATLAB.
+
+For all parts of the project the end of the file represents which part of the project it is used in:
+
+None of the below - Fanning Method on Original Sample Size of 162
+1 - Fanning Method on Increase Sample Size of 244
+S - Swimming Method on Original Sample Size of 162
+1S - Swimming Method on Increase Sample Size of 244
+
+Image Files - Genus_Species.tif
+
+Fish.csv - Column 1: List of species for which images are available. Column 2 & 3: First and Last appearance dates. As we are not using extinct species these columns are put to 0 as default. Column 4: Which group they belong to. By default 1 is non-fanning and 2 is fanning.
+
+FishNames.csv - States the names of the groups for which column 4 in the Fish.csv file is numbered. Used for both Fish.csv and Fish1.csv. FishNamesSwimming.csv and FishNamesTest.csv are the same files corresponding to FishSwimming.csv and FishTest.csv.
+
+Additionally FishVariation.csv and FishNamesVariation.csv were used to analyse the effect of intraspecific variation.
+
+HarmonicArray.csv is produced in MATLAB and required in R.
+
+FishData: Column 1 = Species Name. Column 2 = Fanning or Non-Fanning (No Care). Columns 3 & 4 = PC1 and PC2 values for each species from the generated morphospace for Fanning. Columns 5 & 6 = PC1 and PC2 values for each species from the generated morphospace for Swimming. Column 7 & 8 = Coded scores for Fanning (0 = Non-Fanning and 1 = Fanning) and Swimming (0 = Non-Pectoral Swimming, 1 = Pectoral Swimming and "-" = no data). The final column is just a checking column for the code. 
