@@ -1,0 +1,20 @@
+READ ME - Generalised Linear Mixed Models
+
+Generalised Linear Mixed Models.R is the code file used for the analyses in R.
+
+Actinopterygii.trees - 100 trees from Rabosky et al.
+
+Environment.csv: Column 1 = Species name. Column 2 = Fanning behaviour (0 = Non-Fanning, 1 = Fanning). Column 3 = Swimming behaviour (0 = Non-Pectoral Swimming, 1 = Pectoral Swimming, Blank = No data). Column 4 = Value for average depth in metres. Blanks represents missing data. Column 5 = Value for average oxygen concentration in μmol/m3. Blanks represents missing data. Column 6 = Value for average surface temperature in degrees Celcius. Blanks represents missing data. Columns 6 & 7 = PC1 and PC2 values generated from PCA for oxygen and temperature.
+
+For the Environment.csv files the end of the file represents which part of the project it is used in:
+
+None of the below - Fanning Method on Original Sample Size of 162
+1 - Fanning Method on Increase Sample Size of 244
+S - Swimming Method on Original Sample Size of 162
+1S - Swimming Method on Increase Sample Size of 244
+
+PCA.csv contains the values for average oxygen concentration in μmol/m3 and for average surface temperature in degrees Celcius used for the PCA. PCAScores.csv shows the results of the PCA with Comp.1 and Comp.2 representing PC1 and PC2 respectively.
+
+All results of each model are shown using the same naming system as for the Environment.csv files.
+
+A separate folder called Variability Tests contains the results of the 10 additional models for oxygen and temperature to test for the effect of environmental variation with the data contained in EnvironmentalData.csv and the results of all models being present.
