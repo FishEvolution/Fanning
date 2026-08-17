@@ -1,0 +1,3 @@
+BM1,Brownian motion with a single rate parameter for each state.
+OU1,Ornstein-Uhlenbeck with one adaptive peak.
+OUM,Ornstein-Uhlenbeck with two adaptive peaks.
