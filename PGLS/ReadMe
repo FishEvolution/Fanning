@@ -1,0 +1,11 @@
+READ ME - PGLS
+
+PGLS.R is the code file used for the analyses in R.
+
+ConsensusTree.nex - The consensus tree.
+
+GroupNames1.csv states all species names in the analysis. 
+
+AncestralStatesContinuous1.csv - Column 1: Species Names. Column 2: PC1 Values. Column 3: PC2 Values.
+
+Environment1.csv: Column 1 = Species name. Column 2 = Fanning behaviour (0 = Non-Fanning, 1 = Fanning). Column 3 = Swimming behaviour (0 = Non-Pectoral Swimming, 1 = Pectoral Swimming, Blank = No data). Column 4 = Value for average depth in metres. Blanks represents missing data. Column 5 = Value for average oxygen concentration in μmol/m3. Blanks represents missing data. Column 6 = Value for average surface temperature in degrees Celcius. Blanks represents missing data. Columns 6 & 7 = PC1 and PC2 values generated from PCA for oxygen and temperature.
